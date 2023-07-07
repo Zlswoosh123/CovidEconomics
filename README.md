@@ -1,2 +1,1 @@
 # CovidEconomics
-# CovidEconomics
