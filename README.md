@@ -1,1 +1,1 @@
-# CovidEconomics
+Covid has had an undeniable impact on virtually all parts of life. This project is meant as a simple exploration of Unemployment (UE) data to answer questions around the size of the impact, severity, regional impacts (US), insight into key demographics. Uses Python in Jupiter notebook.
